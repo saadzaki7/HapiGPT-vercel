@@ -15,7 +15,8 @@
   width: 200px;
   height: 238px;
   top: 0;
-  background: #ca00ff;
+  background-color: #fbb034;
+    background-image: linear-gradient(315deg, #fbb034 0%, #ffdd00 74%);
   filter: blur(175px);
 }
 
